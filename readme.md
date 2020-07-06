@@ -7,7 +7,7 @@ The name's Greg Gomez, I'm a digital project manager diving into the world of [[
 - For stuff I'm working on, check out [[projects]].
 - For things I'm interested in, check out [[areas]].
 - For a more formal read on me, check out [[cv]].
-<!-- - For a less formal read, check out [[thoughts]]. -->
+- For a less formal read, check out [[thoughts]].
 - If you'd like to work with me, go here to [[contact]] me.
 
 
