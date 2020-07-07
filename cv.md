@@ -8,9 +8,9 @@ Here's the 'Too long; didn't read':
 - commercially-minded & well-practiced proposal writer
 
 
-## employment
+## Employment
 ### Project Coordinator @ Permaculture CoLab Digital Circle 
-    *Global | Jun 2020 - present*
+*Global | Jun 2020 - present*
 
 ### Freelance Project Manager
 *Global | Jul 2018 - present*
@@ -36,7 +36,7 @@ Here's the 'Too long; didn't read':
 ### Graphic Design Trainee @ Dzigual Comm Labs
 *Florianópolis, Brazil | Oct 2005 - Feb 2007 • 1y 5m*
 
-## education
+## Education
 
 ### Permaculture Teacher Training @ Graham Bell & Rakesh
 *Online | Jul 2020*
