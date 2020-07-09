@@ -1,4 +1,4 @@
-# Thoughts
+# thoughts
 
 - [[2020-07-07-implementing-zettlekasten]]
 - [[2020-07-06-open-thoughts]]
