@@ -1,3 +1,0 @@
-# Permaculture Designs
-
-- [[PDC Design]]

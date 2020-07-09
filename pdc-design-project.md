@@ -1,4 +1,4 @@
-# PDC Design
+# PDC Design Project
 
 My guild for this project was an awesome multicultural team with incredibly diverse interests, so in order to find common ground for our end of course design, I first started us on a sense making activity. From there we narrowed down our areas of interest and used the [[design web]] to develop our project.
 
